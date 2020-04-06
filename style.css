@@ -4,6 +4,7 @@ div{
 	float: left;
 	width: 400px;
 	position: relative;
+	text-align: justify;
 }
 #Line1{
 	margin: 0;
